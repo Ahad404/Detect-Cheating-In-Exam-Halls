@@ -1,8 +1,8 @@
 # Detect-Cheating-In-Exam-Halls Project 👁️‼️
 ## Project Overview
 This project focuses on **detecting cheating in exam halls using computer vision**.  
-It is designed to **analyze images, recorded videos, or live camera feeds** to detect suspicious student behavior, aiming to **enhance exam efficiency and maintain academic integrity**.  
-The goal is to provide an **intelligent tool to assist invigilators** and ensure fair and reliable testing conditions.  
+It is designed to **analyze images, recorded videos, or live camera feeds** to detect suspicious student behavior, aiming to enhance exam efficiency and maintain academic integrity.  
+The goal is to provide an intelligent tool to assist invigilators and ensure fair and reliable testing conditions.  
 This project was completed as part of the **final project for the Hash Plus Artificial Intelligence Bootcamp**.
 
 ---
